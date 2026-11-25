@@ -1,6 +1,6 @@
 # TAREFA-04 - Sistema de Cadastro de Alunos (Tarefa 02)
 
-**Disciplina:** INE5201 - Introdução à Ciência da Computação  
+**Disciplina:** INE5201 - Introdução à Ciência da Computação com Python  
 **Aluno(s):** Nome 1 (matrícula), Nome 2 (matrícula)  
 **Data:** 24/11/2026
 
