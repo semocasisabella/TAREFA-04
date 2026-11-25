@@ -1,0 +1,17 @@
+aluno
+alunos
+cadastro
+matricula
+nome
+endereco
+data
+nascimento
+buscar
+listar
+alterar
+excluir
+confirmacao
+validacao
+interface
+grafica
+terminal
